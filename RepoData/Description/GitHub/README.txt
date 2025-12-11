@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🪫🔋🌐️ The official source repository for the website of the NetM project, a charging accessory that plays custom sound effects at custom battery percentage levels. It is an event driven audio tool written in Perl.
